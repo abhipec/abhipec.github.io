@@ -1,7 +1,7 @@
 ---
 title: Giving talks at NIT Raipur as a part of 5-day deep learning course.
-excerpt: "Presentation link"
+excerpt: "Presentations, reference material and hands-on session code link: https://goo.gl/A4wqgN"
 categories: news
-custom-url: https://drive.google.com/folderview?id=0B4gPpRKEFccGTkRJZDBma1V3c0E
+custom-url: https://goo.gl/A4wqgN
 tags: [talks]
 ---
